@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>제목변경</title>
+		<title>제목변경2</title>
 	</head>
     <body>
     <header>
